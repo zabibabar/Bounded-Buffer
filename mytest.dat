@@ -1,0 +1,1 @@
+The purpose is to learn how to use semaphores to protect a limited size resource. A circular buffer with 15 positions is to be used to communicate.
